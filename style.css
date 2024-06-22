@@ -1,0 +1,18 @@
+
+input{
+width: 40%;
+padding: 7px;
+margin:  5px;
+font-size: 16px;
+}
+
+button{
+    padding: 10px;
+    margin:0px 5px 5px 5px;
+    width: 13%;
+    
+}
+p{
+    font-size: 18PX;
+    font-family: 'Times New Roman', Times, serif;
+}
